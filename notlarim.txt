@@ -1,0 +1,2 @@
+Bugün Python'da dosya işlemlerini öğreniyorum.
+Artık verilerim bilgisayarımda kalıcı saklanacak!
