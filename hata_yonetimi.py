@@ -1,6 +1,6 @@
 try:
     sayi = int(input("Lütfen bir sayı girin: "))
-    print(f"Girdiğiniz sayının 2 kat: {sayi * 2} ")
+    print(f"Girdiğiniz sayının 2 katı: {sayi * 2} ")
 
 except ValueError:
     print("HATA: Lütfen harf değil, geçerli bir sayı girin!")
